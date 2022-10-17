@@ -34,3 +34,11 @@ Git commands
 
 **git restore --staged file**
 ![image](https://user-images.githubusercontent.com/80097898/196248860-a6630352-2f33-4bfd-93f9-58b258b39f69.png)
+
+**git brach -a**
+![image](https://user-images.githubusercontent.com/80097898/196249601-6e7f230e-0669-4679-9443-142df149180d.png)
+
+**git branch -d [name]**
+Remove selected branch, if it is already merged into any other.
+-D instead of -d forces deletion.
+![image](https://user-images.githubusercontent.com/80097898/196250046-9e275603-70b3-4c3c-9e14-d92ce6a324b4.png)
