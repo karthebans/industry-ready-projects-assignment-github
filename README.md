@@ -43,3 +43,19 @@ Remove selected branch, if it is already merged into any other.
 -D instead of -d forces deletion.
 ![image](https://user-images.githubusercontent.com/80097898/196250046-9e275603-70b3-4c3c-9e14-d92ce6a324b4.png)
 
+
+**git log [-n count]**
+List commit history of current branch. -n count limits list to last n
+commits.
+![image](https://user-images.githubusercontent.com/80097898/196252658-6fd56f8e-8f0c-465c-9ef7-653315fcabf2.png)
+
+
+**git log --oneline --graph --decorate**
+An overview with reference labels and history graph. One commit
+per line.
+![image](https://user-images.githubusercontent.com/80097898/196253088-d46ccee4-cc51-4a81-b78a-a9eee17e5307.png)
+
+
+**git config --global color.ui auto**
+Enable some colorization of Git output.
+![image](https://user-images.githubusercontent.com/80097898/196253981-5fd181b6-0e3c-4915-a0b9-f6619383e38e.png)
