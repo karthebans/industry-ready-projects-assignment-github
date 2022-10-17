@@ -34,3 +34,6 @@ Git commands
 
 **git restore --staged file**
 ![image](https://user-images.githubusercontent.com/80097898/196248860-a6630352-2f33-4bfd-93f9-58b258b39f69.png)
+
+**git brach -a**
+![image](https://user-images.githubusercontent.com/80097898/196249601-6e7f230e-0669-4679-9443-142df149180d.png)
